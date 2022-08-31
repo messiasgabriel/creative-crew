@@ -36,7 +36,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/messiasgabriel/creative-crew/main/Screenshot.png)
 
-This is a Challenge from https://devchallenges.io/ 
+This is a Challenge from https://devchallenges.io/ <br>
 I'm learning web development. So I was able to test and improve my skills with this challenge ;)
 
 ### Built With
