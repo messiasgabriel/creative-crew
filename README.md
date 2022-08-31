@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Not Found</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href=""  target="_blank">
+    <a href="https://messiasgabriel.github.io/creative-crew/"  target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href=""  target="_blank">
+    <a href="https://github.com/messiasgabriel/creative-crew"  target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Challenge
     </a>
   </h3>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/creative-crew/main/Screenshot.png)
 
 This is a Challenge from https://devchallenges.io/ 
 I'm learning web development. So I was able to test and improve my skills with this challenge ;)
