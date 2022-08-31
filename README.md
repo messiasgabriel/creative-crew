@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://messiasgabriel.github.io/creative-crew/"  target="_blank">
+    <a href="https://messiasgabriel.github.io/creative-crew/"  target="blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/messiasgabriel/creative-crew"  target="_blank">
+    <a href="https://github.com/messiasgabriel/creative-crew"  target="blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="blank">
       Challenge
     </a>
   </h3>
